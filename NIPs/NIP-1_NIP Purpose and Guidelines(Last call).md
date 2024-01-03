@@ -45,13 +45,13 @@ There are six types of NIP:
 
   Manage and edit NIPs.
 
-- NULS Council
+- NULS [Councilors](https://gov.nuls.io/gov/council)
 
-  The NIPs, about to “Final” or “Accepted”, can be rejected by the final decision of the Council via internal voting.
+  The NIPs, about to “Final” or “Accepted”, can be rejected by the final decision of the Councilors via internal voting.
 
 - NULS Core Developers
 
-  They are responsible for the audit and code implementation of the Core, Module, NRC Standards and Interface NIPs.
+  They are responsible for the audit and code implementation of the Core, Modules, NRC Standards and Interface NIPs.
 
 Vetting an idea publicly before going as far as writing a NIP is meant to save your time. Asking the community first if an idea is original helps prevent too much time being spent on something that is guaranteed to be rejected based on prior discussions. It also helps to make sure the idea is applicable to the entire community and not just the author. Just because an idea sounds good to the author does not mean it will work for most people in most areas where NULS is used. We recommend that comments can be collected in the community via voting, and the results will also help the NIP editors to make quicker decisions on whether to merge the NIP.
 
@@ -137,6 +137,7 @@ If you are interested in assuming ownership of a NIP, send a message asking to t
 The current NIP editors are:
 
 ```
+ccc <ccc@nuls.io>
 Niels <Niels@nuls.io>
 Pen <Pen@nuls.io>
 ```
